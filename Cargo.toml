@@ -1,5 +1,5 @@
 [package]
-name = "minecraft-packet-derive"
+name = "minecraft-protocol-derive"
 version = "0.1.0"
 authors = ["Mubelotix <mubelotix@gmail.com>"]
 edition = "2018"
